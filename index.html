@@ -6,44 +6,111 @@
   <title>Jaslene Lu | Data Science Portfolio</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
+      font-family: "Helvetica Neue", Arial, sans-serif;
       line-height: 1.6;
-      background-color: #fdfdfd;
+      margin: 0;
+      padding: 0;
+      background: #fafafa;
+      color: #333;
     }
-    h1 {
-      color: #2c3e50;
+    header {
+      background: #2b3a55;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin-bottom: 0.5rem;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 20px;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #2b3a55;
+      border-bottom: 2px solid #2b3a55;
+      padding-bottom: 0.3rem;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li {
+      margin-bottom: 1rem;
+      background: #fff;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
     }
     a {
-      color: #007acc;
+      color: #2b3a55;
       text-decoration: none;
     }
     a:hover {
       text-decoration: underline;
     }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #f0f0f0;
+      font-size: 0.9rem;
+      color: #777;
+    }
   </style>
 </head>
 <body>
-  <h1>Hi, I'm Jaslene Lu 👋</h1>
-  <p>Welcome to my personal website! I'm a research assistant specializing in <b>multi-agent systems</b> and interested in explore deeper in <b>Data Science</b>.</p>
+  <header>
+    <h1>Hi, I'm Yun-Chieh(Jaslene) Lu</h1>
+    <p>Research Assistant | AI & Data Science Enthusiast</p>
+  </header>
 
-  <h2>About Me</h2>
-  <p>I’m passionate about building intelligent systems that enhance research workflows and decision-making. Currently, I work on streamlining the workflow of research assistants based on LLM and evaluate the performance </p>
+  <main>
+    <section id="intro">
+      <p>
+        Welcome to my personal website! I'm a research assistant specializing in <b>multi-agent systems</b> and interested in exploring deeper into <b>Data Science</b>.
+      </p>
+    </section>
 
-  <h2>Projects</h2>
-  <ul>
-    <li><b>Multi-Agent Research Assistant</b> – Engineered an automation pipeline with AI agent frameworks (Autogen, CrewAI) to streamline research tasks
-(literature retrieval, summarization)</li>
-    <li><b>Multi-Agent Evaluation</b> – Built a multi-agent system for research summarization, integrating Phoenix for evaluation of tool calling, hallucination
-detection, and summary accuracy</li>
-    <li><b>LangChain Application</b> – Designed an interactive interface with LangChain and Streamlit for research searching, summarization and NER annotation</li>
-  </ul>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        I’m passionate about building intelligent systems that enhance research workflows and decision-making. 
+        Currently, I work on streamlining research assistant workflows powered by <b>large language models (LLMs)</b> and evaluating their performance in real-world research tasks.
+      </p>
+    </section>
 
-  <h2>Contact</h2>
-  <p>📧 <a href=>yunchien0102@gmail.com</a><br>
-  🔗 <a href="https://github.com/yyunchieh">GitHub</a> | 
-  <a href="https://www.linkedin.com/in/yunchiehlu/">LinkedIn</a></p>
+    
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <b>Multi-Agent Research Assistant</b> – Engineered an automation pipeline with AI agent frameworks (<b>Autogen</b>, <b>CrewAI</b>) to streamline research tasks such as literature retrieval and summarization.
+        </li>
+        <li>
+          <b>Multi-Agent Evaluation</b> – Built a multi-agent system for research summarization, integrating <b>Phoenix</b> for evaluation of tool calling, hallucination detection, and summary accuracy.
+        </li>
+        <li>
+          <b>LangChain Application</b> – Designed an interactive interface using <b>LangChain</b> and <b>Streamlit</b> for research search, summarization, and NER annotation.
+        </li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        📧 <a href="mailto:yunchien0102@gmail.com">yunchien0102@gmail.com</a><br />
+        🔗 <a href="https://github.com/yyunchieh">GitHub</a> | 
+        <a href="https://www.linkedin.com/in/yunchiehlu/">LinkedIn</a>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 Jaslene Lu
+  </footer>
 </body>
 </html>
