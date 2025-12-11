@@ -1,10 +1,3 @@
----
-layout: default
-title: Jaslene Lu | Data Science Portfolio
-logo: images/headshot.jpg
-description: Research Assistant | AI & Data Science Enthusiast
----
-
 <img src="images/headshot.jpg" alt="Jaslene Lu" style="width:200px; display:block; margin:auto;">
 
 # Hi, I'm Yun-Chieh (Jaslene) Lu
