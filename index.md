@@ -3,8 +3,6 @@
 
 Research Assistant | AI & Data Science Enthusiast
 
----
-
 ## About Me
 
 Welcome to my personal website! I'm a research assistant specializing in **multi-agent systems** and interested in exploring deeper into **data science**. I aim to address challenging social problems using technology.  
