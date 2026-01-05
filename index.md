@@ -1,4 +1,3 @@
-<img src="images/headshot.jpg" alt="Jaslene Lu" style="width:200px; display:block; margin:auto;">
 
 # Hi, I'm Yun-Chieh (Jaslene) Lu
 
