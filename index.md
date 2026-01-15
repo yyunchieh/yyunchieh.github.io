@@ -12,12 +12,32 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
 ## Projects
 
-- **[RAG Assistant for Statistical Learning](https://github.com/yyunchieh/Assistant-for-Statistical-Learning/settings)**
-- **[Exploring Socioeconomic Correlates of Taiwan’s Voting Behavior](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)**
-- **[Multi-Agent Conversation with Automated Summarization](https://github.com/yyunchieh/Multi-Agent-Conversation-with-Automated-Summarization)**
-- **[LLM Evaluation with Phoenix](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)**
+
+## Projects
+
+### RAG Assistant for Statistical Learning
+LLM-powered assistant that answers statistical learning questions using textbook-based retrieval.  
+🔗 [View Project →]([./projects/rag-assistant](https://github.com/yyunchieh/Assistant-for-Statistical-Learning/setting))
 
 ---
+
+### Exploring Socioeconomic Correlates of Taiwan’s Voting Behavior
+Data-driven analysis linking socioeconomic indicators to voting outcomes in Taiwan.  
+🔗 [View Project →]([./projects/taiwan-voting-analysis](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan))
+
+---
+
+### Multi-Agent Conversation with Automated Summarization
+A multi-agent system that coordinates dialogue and produces structured summaries.  
+🔗 [View Project →]([./projects/multi-agent-summarization](https://github.com/yyunchieh/Multi-Agent-Conversation-with-Automated-Summarization))
+
+---
+
+### LLM Evaluation with Phoenix
+Trace-based evaluation of LLM outputs focusing on hallucination and summary accuracy.  
+🔗 [View Project →]([./projects/llm-evaluation-phoenix](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix))
+
+
 
 ## Skills
 
