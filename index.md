@@ -12,9 +12,6 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
 ## Projects
 
-
-## Projects
-
 - **[RAG Assistant for Statistical Learning](projects/rag_assistant)**
   
 
