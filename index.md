@@ -18,10 +18,10 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 - **[Exploring Socioeconomic Correlates of Taiwan’s Voting Behavior](projects/taiwan_voting_behavior/)**
 
 
-- **[Multi-Agent Conversation with Automated Summarization](projects/multi-agent_interaction/)**
+- **[Multi-Agent Conversation with Automated Summarization](projects/multi_agent_interaction/)**
   
 
-- **[LLM Evaluation with Phoenix](projects/llm-evaluation-phoenix/)**
+- **[LLM Evaluation with Phoenix](projects/llm_evaluation_phoenix/)**
 
 
 
