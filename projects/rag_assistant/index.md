@@ -19,7 +19,7 @@ Nowadays, many people turn to generative AI for quick answers.  But one major 
 - Evaluation: LangSmith (LLM-as-a-judge)
 
 ## Code
-GitHub Repository  
-https://github.com/yyunchieh/Assistant-for-Statistical-Learning
+[GitHub Repository](https://github.com/yyunchieh/Assistant-for-Statistical-Learning)
+
 
 
