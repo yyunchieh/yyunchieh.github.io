@@ -12,6 +12,8 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
 ## Projects
 
+- **[LLM Evaluation with Phoenix](projects/llm_evaluation_phoenix/)**
+
 - **[RAG Assistant for Statistical Learning](projects/rag_assistant/)**
   
 
@@ -20,10 +22,6 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
 - **[Multi-Agent Conversation with Automated Summarization](projects/multi_agent_interaction/)**
   
-
-- **[LLM Evaluation with Phoenix](projects/llm_evaluation_phoenix/)**
-
-
 
 ## Skills
 
