@@ -25,5 +25,5 @@ In research-oriented applications, accuracy and reliability are more critical th
 > This demo shows the end-to-end evaluation workflow and how Phoenix traces are used.
 
 ## Code
-GitHub Repository  
-https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix
+[GitHub Repository](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)
+
