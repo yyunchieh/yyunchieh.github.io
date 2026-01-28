@@ -10,7 +10,7 @@ This project presents an end-to-end research assistant system that retrieves rel
 ## Motivation
 In research-oriented applications, accuracy and reliability are more critical than surface-level fluency. While LLMs can produce convincing outputs, unverified or hallucinated information poses significant risks in academic and analytical contexts. This project is motivated by the need for systematic and reproducible evaluation of LLM-based research assistants. By explicitly measuring tool-calling correctness, hallucination rates, and summary accuracy, the system allows users to assess the credibility of generated outputs and better understand the limitations of LLM agents in real research settings.
 
-# Tech Stack
+## Tech Stack
 - LLM: OpenAI GPT-4o
 - Framework: OpenAI Python SDK, LangChain (ChatOpenAI wrapper)
 - Tracing: Phoenix AI (OpenTelemetry)
@@ -26,4 +26,5 @@ In research-oriented applications, accuracy and reliability are more critical th
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)
+
 
