@@ -39,8 +39,6 @@ SHAP summary plot illustrating feature importance in XGBoost model. Consumption,
 
 Standardized cluster profiles of Taiwan’s districts based on demographic, socioeconomic, and voting characteristics. Values represent relative deviations from the overall mean. The heatmap highlights two structurally distinct district types with contrasting age, income, education, and voting profiles.
 
-images/cluster_profiles_heatmap.png
-
 ## Reflection
 * Learned the importance of combining predictive modeling with interpretable insights for policy relevance
 
@@ -52,6 +50,7 @@ images/cluster_profiles_heatmap.png
   
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)
+
 
 
 
