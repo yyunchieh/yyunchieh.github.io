@@ -31,7 +31,10 @@ Designing effective campaign strategies is a critical challenge in any election.
 * PCA and heatmap visualizations illustrate distinct demographic and socioeconomic profiles
 
 ## Figures
-images/shap_summary_xgb.png
+![SHAP summary plot](images/shap_summary_xgb.png)
+SHAP summary plot illustrating feature importance in XGBoost model. Consumption, higher education percentage, age 15-64 percentage, and elderly population share emerge as the most  influential factors in explaining district-level voting behavior.
+![Cluster profile heatmap](images/cluster_profiles_heatmap.png)
+Standardized cluster profiles of Taiwan’s districts based on demographic, socioeconomic, and voting characteristics. Values represent relative deviations from the overall mean. The heatmap highlights two structurally distinct district types with contrasting age, income, education, and voting profiles.
 
 images/cluster_profiles_heatmap.png
 
@@ -46,6 +49,7 @@ images/cluster_profiles_heatmap.png
   
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)
+
 
 
 
