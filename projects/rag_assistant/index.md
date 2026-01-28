@@ -25,9 +25,12 @@ Learning a complex subject often requires flipping through hundreds of pages. I 
 * Provided interactive visualization of source citations and retrieval paths
 
 ## Figures
-![UI and Source citation example](Figures/Interface.png)
-
+![UI and sample question](Figures/Interface.png)
+Figure 1. Sample question and answer from the system
+![Source citation](Figures/Sources.png)
+Figure 2. Showing page-level citations from the textbook
 ![Hallucination evaluation sample results](Figures/Tracing.png)
+Figure 3. Automated evaluation of LLM responses using LLM-as-a-judge framework
 
 ## Demo
 ▶ **YouTube Demo (5 minutes)**  
@@ -35,6 +38,7 @@ Learning a complex subject often requires flipping through hundreds of pages. I 
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Assistant-for-Statistical-Learning)
+
 
 
 
