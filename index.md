@@ -1,10 +1,8 @@
 # Hi, I'm Yun-Chieh (Jaslene) Lu
 
-Research Assistant | AI & Data Science Enthusiast
-
 ## About Me
 
-Welcome to my personal website! I'm a research assistant specializing in **multi-agent systems** and interested in exploring deeper into **data science**. I aim to address challenging social problems using technology.  
+Welcome to my personal website! I'm a research assistant specializing in **multi-agent systems** and interested in addressing problems with **data science** techniques, especially for complex social problems.
 
 I’m passionate about building systems that enhance productivity. Currently, I work on streamlining research assistant workflows powered by **large language models (LLMs)** and evaluating their performance in real-world research tasks.
 
@@ -15,10 +13,8 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 - **[LLM Evaluation with Phoenix](projects/llm_evaluation_phoenix/)**
 
 - **[RAG Assistant for Statistical Learning](projects/rag_assistant/)**
-  
 
 - **[Exploring Socioeconomic Correlates of Taiwan’s Voting Behavior](projects/taiwan_voting_behavior/)**
-
 
 - **[Multi-Agent Conversation with Automated Summarization](projects/multi_agent_interaction/)**
   
@@ -26,7 +22,7 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 ## Skills
 
 - **Programming:** Python (Pandas, Numpy, Scikit-learn, PyTorch, Matplotlib), R  
-- **AI & Tools:** LangChain, LangGraph, n8n, GitHub, MCP  
+- **AI & Tools:** LangChain, LangGraph, n8n, GitHub
 - **Languages:** English, Hakka (Professional); Chinese-Mandarin (Native); German (A2)  
 
 ---
