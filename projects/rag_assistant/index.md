@@ -24,8 +24,13 @@ Learning a complex subject often requires flipping through hundreds of pages. I 
 * Built automated hallucination evaluation metrics → measurable output reliability
 * Provided interactive visualization of source citations and retrieval paths
 
+## Demo
+▶ **YouTube Demo (5 minutes)**  
+[Project Demo - Statistical Learning Assistant](https://youtu.be/s7lXrfZxt_U)
+
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Assistant-for-Statistical-Learning)
+
 
 
 
