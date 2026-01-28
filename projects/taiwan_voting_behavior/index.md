@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Exploring Socioeconomic Correlates of Taiwan’s Voting Behavior
+title: Analysis of Voting Behavior in Taiwan
 ---
 
-# Exploring Socioeconomic Correlates of Taiwan’s Voting Behavior
+# Analysis of Voting Behavior in Taiwan
 
 ## Overview
 This project investigates how demographic, economic, and educational characteristics of Taiwan's 20 districts influence voting behavior in the 2024 presidential election. Unlike purely predictive studies, this project emphasizes exploratory analysis, feature interpretation, and district typology, integrating political science insights with data science methods to inform campaign strategy design.
@@ -41,6 +41,7 @@ Designing effective campaign strategies is a critical challenge in any election.
   
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)
+
 
 
 
