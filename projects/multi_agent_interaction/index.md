@@ -38,6 +38,14 @@ To support this line of research, I designed a system that allows LLMs from diff
 * Role separation reduces redundancy and supports progressive idea development
 * Markdown outputs facilitate review, sharing, and downstream qualitative analysis
 
+## Figures
+
+![Example Output Snippet](Figures/output.png)
+
+Figure 2. Partial output of the multi-agent system
+
+[Download full multi-agent output PDF](Results/conversation_20251202_131412.md)
+
 ## Reflection
 This project reinforced my understanding that effective multi-agent systems depend more on careful coordination, explicit role design, and structured information synthesis than on simply increasing the number of agents.
 
@@ -45,4 +53,5 @@ Drawing on my background in social science research, this project also demonstra
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Multi-Agent-Conversation-with-Automated-Summarization)
+
 
