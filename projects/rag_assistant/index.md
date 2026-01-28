@@ -18,11 +18,16 @@ Learning a complex subject often requires flipping through hundreds of pages. I 
 * Interface: Streamlit for interactive web app
 * Export: Markdown download for Q&A with citations
 * Programming: Python
-
+  
 ## Key Results 
 * Successfully generated source-grounded answers to complex textbook questions
 * Built automated hallucination evaluation metrics → measurable output reliability
 * Provided interactive visualization of source citations and retrieval paths
+
+## Figures
+![UI and Source citation example](Figures/Interface.png)
+
+![Hallucination evaluation sample results](Figures/Tracing.png)
 
 ## Demo
 ▶ **YouTube Demo (5 minutes)**  
@@ -30,6 +35,7 @@ Learning a complex subject often requires flipping through hundreds of pages. I 
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Assistant-for-Statistical-Learning)
+
 
 
 
