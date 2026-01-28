@@ -20,11 +20,12 @@ In research-oriented applications, accuracy and reliability are more critical th
 
 ## Demo
 ▶ **YouTube Demo (5 minutes)**  
-[https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/UWhUrhJEork)
+[Project Demo - LLM Evaluation with Phoenix](https://youtu.be/UWhUrhJEork)
 
 > This demo shows the end-to-end evaluation workflow and how Phoenix traces are used.
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)
+
 
 
