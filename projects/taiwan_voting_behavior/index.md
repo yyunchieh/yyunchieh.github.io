@@ -16,8 +16,8 @@ Designing effective campaign strategies is a critical challenge in any election.
 * [Ministry of Interior Statistics](https://www.moi.gov.tw/cp.aspx?n=5590)
 * [Directorate General of Budget, Accounting, and Statistics (DGBAS)](https://www.dgbas.gov.tw/)
 * [Ministry of Labor](https://statfy.mol.gov.tw/map02.aspx?cid=9&xFunc=68&xKey=1)
-* 
-# Tech Stack & Methods
+  
+## Tech Stack & Methods
 *Predictive Models: Logistic Regression, Random Forest, XGBoost
 *Interpretability: SHAP feature analysis
 *Clustering & Typology: K-Means clustering, PCA
@@ -32,8 +32,11 @@ Designing effective campaign strategies is a critical challenge in any election.
 
 ## Figures
 ![SHAP summary plot](images/shap_summary_xgb.png)
+
 SHAP summary plot illustrating feature importance in XGBoost model. Consumption, higher education percentage, age 15-64 percentage, and elderly population share emerge as the most  influential factors in explaining district-level voting behavior.
+
 ![Cluster profile heatmap](images/cluster_profiles_heatmap.png)
+
 Standardized cluster profiles of Taiwan’s districts based on demographic, socioeconomic, and voting characteristics. Values represent relative deviations from the overall mean. The heatmap highlights two structurally distinct district types with contrasting age, income, education, and voting profiles.
 
 images/cluster_profiles_heatmap.png
@@ -49,6 +52,7 @@ images/cluster_profiles_heatmap.png
   
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)
+
 
 
 
