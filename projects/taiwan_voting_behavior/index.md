@@ -31,7 +31,9 @@ Designing effective campaign strategies is a critical challenge in any election.
 * PCA and heatmap visualizations illustrate distinct demographic and socioeconomic profiles
 
 ## Figures
+images/shap_summary_xgb.png
 
+images/cluster_profiles_heatmap.png
 
 ## Reflection
 * Learned the importance of combining predictive modeling with interpretable insights for policy relevance
@@ -44,6 +46,7 @@ Designing effective campaign strategies is a critical challenge in any election.
   
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)
+
 
 
 
