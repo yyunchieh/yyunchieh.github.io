@@ -18,11 +18,11 @@ Designing effective campaign strategies is a critical challenge in any election.
 * [Ministry of Labor](https://statfy.mol.gov.tw/map02.aspx?cid=9&xFunc=68&xKey=1)
   
 ## Tech Stack & Methods
-*Predictive Models: Logistic Regression, Random Forest, XGBoost
-*Interpretability: SHAP feature analysis
-*Clustering & Typology: K-Means clustering, PCA
-*Visualization: Heatmaps, PCA projections, SHAP analysis
-*Programming: Python, scikit-learn, Matplotlib
+* Predictive Models: Logistic Regression, Random Forest, XGBoost
+* Interpretability: SHAP feature analysis
+* Clustering & Typology: K-Means clustering, PCA
+* Visualization: Heatmaps, PCA projections, SHAP analysis
+* Programming: Python, scikit-learn, Matplotlib
 
 ## Key Results 
 * Age, education, and household size are the strongest predictors of voting outcomes
@@ -50,6 +50,7 @@ Standardized cluster profiles of Taiwan’s districts based on demographic, soci
   
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)
+
 
 
 
