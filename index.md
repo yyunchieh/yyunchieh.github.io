@@ -1,5 +1,5 @@
 # Hi, I'm Yun-Chieh (Jaslene) Lu
-
+---
 ## About Me
 
 Welcome to my personal website! I'm a research assistant specializing in **multi-agent systems** and interested in addressing problems with **data science** techniques, especially for complex social problems.
@@ -17,7 +17,8 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 - **[Exploring Socioeconomic Correlates of Taiwan’s Voting Behavior](projects/taiwan_voting_behavior/)**
 
 - **[Multi-Agent Conversation with Automated Summarization](projects/multi_agent_interaction/)**
-  
+
+---
 
 ## Skills
 
