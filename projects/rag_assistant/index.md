@@ -11,7 +11,7 @@ I developed a retrieval-augmented generation system using LangGraph to answer qu
 ## Motivation
 Learning a complex subject often requires flipping through hundreds of pages. I wanted to build a system that helps users interactively explore a textbook, obtain reliable answers, and understand the reasoning behind them. My goal was to balance AI capabilities with user trust and interpretability.
 
-# Tech Stack & Methods
+## Tech Stack & Methods
 * RAG: LangGraph-based retrieval and generation
 * LLM-as-a-Judge: Automated hallucination detection
 * Tracing & Monitoring: LangSmith for full pipeline observability
@@ -26,6 +26,7 @@ Learning a complex subject often requires flipping through hundreds of pages. I 
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Assistant-for-Statistical-Learning)
+
 
 
 
