@@ -6,20 +6,27 @@ title: Assistant for Statistical Learning
 # Assistant for Statistical Learning
 
 ## Overview
-A configuration-driven RAG (Retrieval-Augmented Generation) system built with LangGraph for answering questions about The Elements of Statistical Learning. The project emphasizes reproducibility, agent-based orchestration, and evaluation of hallucination behavior.
+I developed a retrieval-augmented generation system using LangGraph to answer questions based on The Elements of Statistical Learning. The project combines AI and transparency-focused evaluation to support efficient learning and deeper conceptual understanding.
 
 ## Motivation
-Nowadays, many people turn to generative AI for quick answers.  But one major problem is that these models can hallucinate. Combining with my personal experiences, I tried to build a learning assistant which not only can support learning but also increase reliability at once.  It answers questions using "the Elements of Statistical Learning" this textbook as its source, and it shows the exact page numbers where each answer comes from.
+Learning a complex subject often requires flipping through hundreds of pages. I wanted to build a system that helps users interactively explore a textbook, obtain reliable answers, and understand the reasoning behind them. My goal was to balance AI capabilities with user trust and interpretability.
 
-# Tech Stack
-- LLM: OpenAI GPT-4o
-- Framework: LangChain, LangSmith
-- Tracing: LangSmith
-- UI: Streamlit
-- Evaluation: LangSmith (LLM-as-a-judge)
+# Tech Stack & Methods
+* RAG: LangGraph-based retrieval and generation
+* LLM-as-a-Judge: Automated hallucination detection
+* Tracing & Monitoring: LangSmith for full pipeline observability
+* Interface: Streamlit for interactive web app
+* Export: Markdown download for Q&A with citations
+* Programming: Python
+
+## Key Results 
+* Successfully generated source-grounded answers to complex textbook questions
+* Built automated hallucination evaluation metrics → measurable output reliability
+* Provided interactive visualization of source citations and retrieval paths
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Assistant-for-Statistical-Learning)
+
 
 
 
