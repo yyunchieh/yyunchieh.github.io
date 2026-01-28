@@ -30,6 +30,9 @@ Designing effective campaign strategies is a critical challenge in any election.
 * SHAP analysis reveals heterogeneous influence of income and stable effect of age structure
 * PCA and heatmap visualizations illustrate distinct demographic and socioeconomic profiles
 
+## Figures
+
+
 ## Reflection
 * Learned the importance of combining predictive modeling with interpretable insights for policy relevance
 
@@ -41,6 +44,7 @@ Designing effective campaign strategies is a critical challenge in any election.
   
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)
+
 
 
 
