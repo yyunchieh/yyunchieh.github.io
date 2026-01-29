@@ -87,7 +87,9 @@ Relevant Coursework:
 - Intelligent Computing Certificate Program
 - Optimization for Data Science and Machine Learning Course Certificate
 
-## EXTRACURRICULAR ACTIVITIES 
+---
+
+## Extracurricular Activities 
 
 Co-Organizer  
 
