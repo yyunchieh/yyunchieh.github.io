@@ -19,7 +19,8 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
   **Tech:** Python, Arize Phoenix, LangChain, Streamlit
   
-  [GitHub](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)  | [Demo Video](https://www.youtube.com/watch?v=QvZ2b9byQJc)
+  [GitHub](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)
+  [Demo Video](https://www.youtube.com/watch?v=QvZ2b9byQJc)
 
 - **[RAG Assistant for Statistical Learning](projects/rag_assistant/)**
   
@@ -29,8 +30,9 @@ I’m passionate about building systems that enhance productivity. Currently, I 
   
   **Tech:** Python, LangGraph, LangSmith, Streamlit, RAG
   
-  [GitHub](https://github.com/yyunchieh/Assistant-for-Statistical-Learning) | [Demo Video](https://youtu.be/s7lXrfZxt_U)
-  
+  [GitHub](https://github.com/yyunchieh/Assistant-for-Statistical-Learning)
+  [Demo Video](https://youtu.be/s7lXrfZxt_U)
+
 - **[Exploring Socioeconomic Correlates of Taiwan’s Voting Behavior](projects/taiwan_voting_behavior/)**
   
   Interpretable ML analysis of Taiwan's 2024 presidential election examining how
