@@ -10,7 +10,7 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
 ## Projects
 
-** Click on any project title to view detailed technical documentation **
+**Click on any project title to view detailed technical documentation**
 
 - **[LLM Evaluation with Phoenix](projects/llm_evaluation_phoenix/)**
 
