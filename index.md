@@ -10,10 +10,12 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
 ## Education
 
+**National Cheng Kung University**
+
 **Bachelor of Arts in Political Science with Intelleigent Computing Credit Program**
-National Cheng Kung University 
 
 **GPA: 3.72/4.3 or 3.62/4.0**
+
 **Relevant Coursework:**
 - Introduction to Python Programming, Python Programming
 - Calculus I & II, Linear Algebra, Applied Statistics
