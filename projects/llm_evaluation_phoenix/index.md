@@ -22,15 +22,12 @@ In research-oriented applications, accuracy and reliability are more critical th
 A. Output / Research Utility
 
 - LLM-generated reports successfully summarize concept overviews, literature reviews, and potential research directions.
-
 - Outputs in Markdown format are structured and ready for researcher use.
 
 B. Evaluation / Reliability
 
 - Aggregated span-level metrics over dozens of traces quantify tool-calling rates and hallucination rates, providing system-level insights.
-
 - LLM-as-a-judge framework further evaluates output reliability.
-
 - Full tracing ensures workflow transparency, making it possible to compare meaningfully.
   
 ## Figure
@@ -51,6 +48,7 @@ This project highlighted the importance of designing research-assistant workflow
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)
+
 
 
 
