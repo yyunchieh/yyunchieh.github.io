@@ -86,15 +86,21 @@ National Cheng Kung University
 
 **EXTRACURRICULAR ACTIVITIES** 
 Co-Organizer | Weekly AI Knowledge-Sharing Group, Academia Sinica, Taiwan 
+
 • Delivered talks on emerging AI techniques, including multi-agent systems, fostering a collaborative technical learning space
+
 Chief Operating Officer | NCKU Data Analytics Club, Tainan, Taiwan 
+
 • Led recruitment and coordinated interdepartmental communication, raising member engagement and recruitment by 10%
+
 Public Relations Officer | NCKU Taipei Students Association, Tainan, Taiwan 
+
 • Organized a large-scale prom (200+ attendees), securing sponsorship totaling +$35K (TWD)
+
 Volunteer Experience | Eden Social Welfare Foundation, Taipei, Taiwan 
+
 • Assisted visually impaired participants during a guided visit to the Central Weather Administration, ensuring accessibility and
 facilitating engagement with scientific exhibits
-
 
 ## Contact
 
