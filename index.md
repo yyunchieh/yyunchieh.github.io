@@ -8,6 +8,20 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
 ---
 
+## Education
+
+**Bachelor of Arts in Political Science with Intelleigent Computing Credit Program**
+National Cheng Kung University 
+
+**GPA: 3.72/4.3 or 3.62/4.0**
+**Relevant Coursework:**
+- Introduction to Python Programming, Python Programming
+- Calculus I & II, Linear Algebra, Applied Statistics
+- Mathematical Foundation of Intelligent Computing
+- Introduction to Probability and Statistics in Data Science
+- Statistical Prediction and Machine Learning
+- Data Mining and Machine Learning in Political Science
+
 ## Projects
 
 **Click on any project title to view detailed technical documentation**
@@ -63,6 +77,21 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 - **Languages:** English, Hakka (Professional); Chinese-Mandarin (Native); German (A2)  
 
 ---
+
+
+**Academic Certificates:**
+- Statistical Science Workshop Certificate
+- Intelligent Computing Certificate Program
+- Optimization for Data Science and Machine Learning Course Certificate
+
+**EXTRACURRICULAR ACTIVITIES** 
+-Co-Organizer | Weekly AI Knowledge-Sharing Group, Academia Sinica, Taiwan 
+• Delivered talks on emerging AI techniques, including multi-agent systems, fostering a collaborative technical learning space
+Chief Operating Officer | NCKU Data Analytics Club, Tainan, Taiwan 
+• Led recruitment and coordinated interdepartmental communication, raising member engagement and recruitment by 10%
+Public Relations Officer | NCKU Taipei Students Association, Tainan, Taiwan 
+• Organized a large-scale prom (200+ attendees), securing sponsorship totaling +$35K (TWD)
+
 
 ## Contact
 
