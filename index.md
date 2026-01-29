@@ -85,6 +85,7 @@ National Cheng Kung University
 - Optimization for Data Science and Machine Learning Course Certificate
 
 **EXTRACURRICULAR ACTIVITIES** 
+
 Co-Organizer | Weekly AI Knowledge-Sharing Group, Academia Sinica, Taiwan 
 
 • Delivered talks on emerging AI techniques, including multi-agent systems, fostering a collaborative technical learning space
