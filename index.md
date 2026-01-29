@@ -10,13 +10,13 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
 ## Education
 
-**National Cheng Kung University**
+National Cheng Kung University
 
-**Bachelor of Arts in Political Science with Intelleigent Computing Credit Program**
+Bachelor of Arts in Political Science with Intelleigent Computing Credit Program
 
-**GPA: 3.72/4.3 or 3.62/4.0**
+GPA: 3.72/4.3 or 3.62/4.0
 
-**Relevant Coursework:**
+Relevant Coursework:
 - Introduction to Python Programming, Python Programming
 - Calculus I & II, Linear Algebra, Applied Statistics
 - Mathematical Foundation of Intelligent Computing
@@ -107,7 +107,9 @@ NCKU Taipei Students Association, Tainan, Taiwan
 
 • Organized a large-scale prom (200+ attendees), securing sponsorship totaling +$35K (TWD)
 
-Volunteer Experience | Eden Social Welfare Foundation, Taipei, Taiwan 
+Volunteer Experience 
+
+Eden Social Welfare Foundation, Taipei, Taiwan 
 
 • Assisted visually impaired participants during a guided visit to the Central Weather Administration, ensuring accessibility and
 facilitating engagement with scientific exhibits
