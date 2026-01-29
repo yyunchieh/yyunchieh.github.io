@@ -56,16 +56,13 @@ SHAP summary plot illustrating feature importance in XGBoost model. Consumption,
 Standardized cluster profiles of Taiwan’s districts based on demographic, socioeconomic, and voting characteristics. Values represent relative deviations from the overall mean. The heatmap highlights two structurally distinct district types with contrasting age, income, education, and voting profiles.
 
 ## Reflection
-* Learned the importance of combining predictive modeling with interpretable insights for policy relevance
 
-* Small sample size limits predictive accuracy, emphasizing the need for careful contextualization
+This project emphasized the trade-off between predictive performance and interpretability in socially grounded datasets. By using machine learning as an analytical lens rather than optimizing solely for prediction, I gained deeper insight into how data-driven methods can support substantive social analysis.
 
-* Gained experience in interdisciplinary research, integrating political science theory, ML methods, and data visualization
-
-* Recognized how clustering and feature interpretation can inform actionable campaign strategies beyond raw prediction
   
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)
+
 
 
 
