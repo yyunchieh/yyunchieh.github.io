@@ -17,11 +17,31 @@ In research-oriented applications, accuracy and reliability are more critical th
 - Web Search: Tavily API
 - UI: Streamlit
 - Evaluation: Phoenix Evals (LLM-as-a-judge)
+
+## Key Results
+A. Output / Research Utility
+
+* LLM-generated reports successfully summarize concept overviews, literature reviews, and potential research directions.
+
+* Outputs in Markdown format are structured and ready for researcher use.
+
+B. Evaluation / Reliability
+
+* Aggregated span-level metrics over dozens of traces quantify tool-calling rates and hallucination rates, providing system-level insights.
+
+* LLM-as-a-judge framework further evaluates output reliability.
+
+* Full tracing ensures workflow transparency, making it possible to compare meaningfully.
   
 ## Figure
 ![System Worflow](Figures/system_workflow.png)
 
 Figure 1. System Workflow
+
+## Reflection
+I learned that systematically evaluating LLM outputs is as important as developing the models themselves. Without proper tracing and evaluation, it is difficult for users, especially those new to the field, to independently assess the reliability of generated outputs.
+
+This project highlighted the importance of designing research-assistant workflows that balance output utility, evaluation rigor, and transparency, enabling trustworthy and reproducible use of language models in real-world research applications.
 
 ## Demo
 ▶ **YouTube Demo (5 minutes)**  
@@ -31,6 +51,7 @@ Figure 1. System Workflow
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)
+
 
 
 
