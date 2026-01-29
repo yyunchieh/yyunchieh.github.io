@@ -10,6 +10,8 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 
 ## Projects
 
+### Click on any project title to view detailed technical documentation
+
 - **[LLM Evaluation with Phoenix](projects/llm_evaluation_phoenix/)**
 
 - **[RAG Assistant for Statistical Learning](projects/rag_assistant/)**
