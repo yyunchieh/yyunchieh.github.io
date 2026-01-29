@@ -37,12 +37,18 @@ Figure 2. Showing page-level citations from the textbook
 
 Figure 3. Automated evaluation of LLM responses using LLM-as-a-judge framework
 
+## Reflection
+During the process of building this project, I realized that while retrieval-augmented generation is often assumed to reduce hallucinations, output reliability depends heavily on workflow transparency. By incorporating full tracing and using LLM as a judge, users gain a more concrete way to assess answers, fostering trust.
+
+This experience shifted my perspective from merely optimizing model outputs to designing human-centered learning tools that balance accuracy, transparency, and usability.
+
 ## Demo
 ▶ **YouTube Demo (5 minutes)**  
 [Project Demo - Statistical Learning Assistant](https://youtu.be/s7lXrfZxt_U)
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Assistant-for-Statistical-Learning)
+
 
 
 
