@@ -39,6 +39,9 @@ To support this line of research, I designed a system that allows LLMs from diff
 * Markdown outputs facilitate review, sharing, and downstream qualitative analysis
 
 ## Figures
+![System Architecture](Figures/architecture.png)
+
+Figure 1. Architecture of the multi-agent system, showing agent roles and communication flow.
 
 ![Example Output Snippet](Figures/output.png)
 
@@ -53,5 +56,6 @@ Drawing on my background in social science research, this project also demonstra
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Multi-Agent-Conversation-with-Automated-Summarization)
+
 
 
