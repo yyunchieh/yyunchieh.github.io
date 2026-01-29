@@ -81,22 +81,29 @@ I’m passionate about building systems that enhance productivity. Currently, I 
 ---
 
 
-**Academic Certificates:**
+## Academic Certificates
+
 - Statistical Science Workshop Certificate
 - Intelligent Computing Certificate Program
 - Optimization for Data Science and Machine Learning Course Certificate
 
-**EXTRACURRICULAR ACTIVITIES** 
+## EXTRACURRICULAR ACTIVITIES 
 
-Co-Organizer | Weekly AI Knowledge-Sharing Group, Academia Sinica, Taiwan 
+Co-Organizer  
+
+Weekly AI Knowledge-Sharing Group, Academia Sinica, Taiwan 
 
 • Delivered talks on emerging AI techniques, including multi-agent systems, fostering a collaborative technical learning space
 
-Chief Operating Officer | NCKU Data Analytics Club, Tainan, Taiwan 
+Chief Operating Officer
+
+NCKU Data Analytics Club, Tainan, Taiwan 
 
 • Led recruitment and coordinated interdepartmental communication, raising member engagement and recruitment by 10%
 
-Public Relations Officer | NCKU Taipei Students Association, Tainan, Taiwan 
+Public Relations Officer 
+
+NCKU Taipei Students Association, Tainan, Taiwan 
 
 • Organized a large-scale prom (200+ attendees), securing sponsorship totaling +$35K (TWD)
 
