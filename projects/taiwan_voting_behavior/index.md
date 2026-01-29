@@ -30,6 +30,22 @@ Designing effective campaign strategies is a critical challenge in any election.
 * SHAP analysis reveals heterogeneous influence of income and stable effect of age structure
 * PCA and heatmap visualizations illustrate distinct demographic and socioeconomic profiles
 
+## Campaign Strategy Implications
+Urban districts are characterized by higher education levels, higher income, and more heterogeneous political preferences. Clustering and SHAP analyses suggest that voting behavior in these districts is less driven by a single socioeconomic factor and more influenced by issue-based considerations.
+
+* Campaign messaging in urban districts may benefit from emphasizing detailed policy proposals, social issues, and innovation-driven narratives.
+* Digital platforms and social media appear to be effective channels for engaging these voters, who exhibit higher exposure to diverse information sources.
+
+Rural districts exhibit more competitive voting dynamics and stronger associations with traditional socioeconomic indicators. In these districts, variables such as age structure and household characteristics show more consistent relationships with voting outcomes.
+
+* Messaging that highlights economic stability, local infrastructure, and community-oriented values may resonate more strongly.
+* Traditional outreach channels, including local events, radio, and print media, may remain influential in these areas.
+
+Youth mobilization emerges as a key factor in specific district clusters. Districts with a higher proportion of younger residents display distinct voting patterns, suggesting untapped mobilization potential.
+
+* Data-driven targeting through social media campaigns, interactive events, and youth-oriented messaging could enhance engagement.
+* Encouraging voter registration and participation among younger demographics may be particularly impactful in these clusters.
+
 ## Figures
 ![SHAP summary plot](Figures/shap_summary_xgb.png)
 
@@ -50,6 +66,7 @@ Standardized cluster profiles of Taiwan’s districts based on demographic, soci
   
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/Analysis-of-Voting-Behavior-in-Taiwan)
+
 
 
 
