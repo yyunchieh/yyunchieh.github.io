@@ -17,6 +17,11 @@ In research-oriented applications, accuracy and reliability are more critical th
 - Web Search: Tavily API
 - UI: Streamlit
 - Evaluation: Phoenix Evals (LLM-as-a-judge)
+  
+## Figure
+![System Worflow](Figures/system_workflow.png)
+
+Figure 1. System Workflow
 
 ## Demo
 ▶ **YouTube Demo (5 minutes)**  
@@ -26,6 +31,7 @@ In research-oriented applications, accuracy and reliability are more critical th
 
 ## Code
 [GitHub Repository](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)
+
 
 
 
