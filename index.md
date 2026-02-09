@@ -3,33 +3,45 @@
 
 ## About Me
 
-Welcome to my personal website! I'm a research assistant specializing in **multi-agent systems** and interested in addressing problems with **data science** techniques, especially for complex social problems.
+Welcome to my personal website! 
 
-I’m passionate about building systems that enhance productivity. Currently, I work on streamlining research assistant workflows powered by **large language models (LLMs)** and evaluating their performance in real-world research tasks.
+I am a research assistant working at the intersection of multi-agent systems, LLM evaluation, and data science, with a particular interest in applying computational methods to complex social and research problems.
+
+My work focuses on designing and evaluating LLM-powered research assistant systems, including workflow automation, tool-calling reliability, hallucination detection, and system observability. Through hands-on projects, I aim to move LLM applications beyond demos toward reliable and transparent systems.
+
+Motivated by educational inequality, I am particularly interested in applying data science methods and large language models to build personalized learning tools that expand access to high-quality education and reduce structural barriers for learners.
 
 ---
 
 ## Education
 
 National Cheng Kung University
+Bachelor of Arts in Political Science
+Intelligent Computing Credit Program
 
-Bachelor of Arts in Political Science with Intelleigent Computing Credit Program
-
-GPA: 3.72/4.3 or 3.62/4.0
+GPA: 3.72/4.3 (equivalent to 3.62/4.0)
 
 Relevant Coursework:
-- Introduction to Python Programming, Python Programming
-- Calculus I & II, Linear Algebra, Applied Statistics
-- Mathematical Foundation of Intelligent Computing
-- Introduction to Probability and Statistics in Data Science
-- Statistical Prediction and Machine Learning
-- Data Mining and Machine Learning in Political Science
+
+Calculus I & II, Linear Algebra, Applied Statistics
+
+Introduction to Probability and Statistics in Data Science
+
+Statistical Prediction and Machine Learning
+
+Data Mining and Machine Learning in Political Science
+
+Mathematical Foundations of Intelligent Computing
+
+Python Programming
 
 ---
 
 ## Projects
 
 **Click on any project title to view detailed technical documentation**
+
+---
 
 - **[LLM Evaluation with Phoenix](projects/llm_evaluation_phoenix/)**
   
