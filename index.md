@@ -1,5 +1,6 @@
 # Hi, I'm Yun-Chieh (Jaslene) Lu
 ---
+
 ## About Me
 
 Welcome to my personal website! I'm a research assistant specializing in **multi-agent systems** and interested in addressing problems with **data science** techniques, especially for complex social problems.
@@ -23,6 +24,8 @@ Relevant Coursework:
 - Introduction to Probability and Statistics in Data Science
 - Statistical Prediction and Machine Learning
 - Data Mining and Machine Learning in Political Science
+
+---
 
 ## Projects
 
@@ -80,7 +83,6 @@ Relevant Coursework:
 
 ---
 
-
 ## Academic Certificates
 
 - Statistical Science Workshop Certificate
@@ -89,32 +91,27 @@ Relevant Coursework:
 
 ---
 
-## Extracurricular Activities 
+## Extracurricular Activities
 
-Co-Organizer  
+**Co-Organizer** — Weekly AI Knowledge-Sharing Group  
+Academia Sinica, Taiwan  
+- Delivered talks on emerging AI techniques (e.g., multi-agent systems), fostering a collaborative technical learning community
 
-Weekly AI Knowledge-Sharing Group, Academia Sinica, Taiwan 
+**Chief Operating Officer** — NCKU Data Analytics Club  
+Tainan, Taiwan  
+- Led recruitment and coordinated interdepartmental communication, increasing member engagement and recruitment by 10%
 
-• Delivered talks on emerging AI techniques, including multi-agent systems, fostering a collaborative technical learning space
+**Public Relations Officer** — NCKU Taipei Students Association  
+Tainan, Taiwan  
+- Organized a large-scale prom (200+ attendees) and secured over TWD 35,000 in sponsorships
+  
+---
 
-Chief Operating Officer
+## Volunteer Experience
 
-NCKU Data Analytics Club, Tainan, Taiwan 
-
-• Led recruitment and coordinated interdepartmental communication, raising member engagement and recruitment by 10%
-
-Public Relations Officer 
-
-NCKU Taipei Students Association, Tainan, Taiwan 
-
-• Organized a large-scale prom (200+ attendees), securing sponsorship totaling +$35K (TWD)
-
-Volunteer Experience 
-
-Eden Social Welfare Foundation, Taipei, Taiwan 
-
-• Assisted visually impaired participants during a guided visit to the Central Weather Administration, ensuring accessibility and
-facilitating engagement with scientific exhibits
+**Volunteer** — Eden Social Welfare Foundation  
+Taipei, Taiwan  
+- Assisted visually impaired participants during a guided visit to the Central Weather Administration, ensuring accessibility and engagement with scientific exhibits
 
 ## Contact
 
