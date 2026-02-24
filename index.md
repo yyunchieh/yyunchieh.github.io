@@ -51,7 +51,7 @@ Python Programming
   **Tech:** Python, Arize Phoenix, LangChain, Streamlit
   
   [GitHub](https://github.com/yyunchieh/LLM-Evaluation-with-Phoenix)
-  [Demo Video](https://www.youtube.com/watch?v=QvZ2b9byQJc)
+  [Demo Video](https://www.youtube.com/watch?v=UWhUrhJEork)
 
 - **[RAG Assistant for Statistical Learning](projects/rag_assistant/)**
   
