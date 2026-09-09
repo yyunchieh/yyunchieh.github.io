@@ -5,11 +5,9 @@
 
 Welcome to my personal website! 
 
-I am a research assistant working at the intersection of multi-agent systems, LLM evaluation, and data science, with a particular interest in applying computational methods to complex social and research problems.
+I am currently pursuing a master’s degree in Data Science at the University of Michigan. Before graduate school, I worked as a Research Assistant exploring the intersection of multi-agent systems, LLMs, and data science, with a particular interest in using computational methods to tackle social and research problems.
 
-My work focuses on designing and evaluating LLM-powered research assistant systems, including workflow automation, tool-calling reliability, hallucination detection, and system observability. Through hands-on projects, I aim to move LLM applications beyond demos toward reliable and transparent systems.
-
-Motivated by educational inequality, I am particularly interested in applying data science methods and large language models to build personalized learning tools that expand access to high-quality education and reduce structural barriers for learners.
+I enjoy building systems that make AI more useful, reliable, and transparent. My work has included LLM-powered research assistants, workflow automation, tool-calling evaluation, hallucination detection, and system observability. Through my research and projects, I aim to move beyond simply building AI demos and toward developing systems that solve real-world problems and address people’s pain points.
 
 ---
 
