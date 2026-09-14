@@ -14,15 +14,17 @@ I enjoy building systems that make AI more useful, reliable, and transparent. My
 ## Education
 
 University of Michigan — M.S. in Data Science
+
 Aug 2026 – May 2028
 
-Current Coursework: Programming for Scientists & Engineers (C++), Machine Learning
+Current Coursework: 
+Programming for Scientists & Engineers (C++), Machine Learning
 
 National Cheng Kung University — B.A. in Political Science
 Intelligent Computing Credit Program  GPA: 3.72/4.3 (equivalent to 3.65/4.0)
 
 Relevant Coursework:
-Calculus I & II · Linear Algebra · Applied Statistics · Probability & Statistics in Data Science · Statistical Prediction & Machine Learning · Data Mining & Machine Learning · Mathematical Foundations of Intelligent Computing · Python Programming
+Calculus I & II, Linear Algebra, Applied Statistics, Probability & Statistics in Data Science, Statistical Prediction & Machine Learning, Data Mining & Machine Learning, Mathematical Foundations of Intelligent Computing, Python Programming
 
 ---
 
